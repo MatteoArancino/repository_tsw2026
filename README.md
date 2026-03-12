@@ -1,2 +1,2 @@
-# repository_tsw2026 modifica da github
+# repository_tsw2026 modifica da locale
 qualcosa di nuovo
